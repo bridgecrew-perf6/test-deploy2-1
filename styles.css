@@ -1,0 +1,58 @@
+.document {
+  background: linear-gradient(to top, #789395 0%, #f7ccac 100%);
+  border-color: #b7cadb;
+  border-radius: 10px;
+}
+.app {
+  font-family: "Teko", sans-serif;
+  color: #062c30;
+  text-align: left;
+  font-size: 30px;
+}
+.place-time {
+  font-family: "Teko", sans-serif;
+  color: #630606;
+  text-align: center;
+  font-size: 60px;
+}
+#tempNowLine {
+  font-family: "Teko", sans-serif;
+  color: #243d25;
+  text-align: right;
+  font-size: 40px;
+}
+.card-title {
+  font-family: "Teko", sans-serif;
+  color: #180a0a;
+  text-align: center;
+  font-size: 30px;
+}
+.partlyCloudy {
+  display: inline;
+  margin: 0 auto;
+  line-height: auto;
+}
+.sunshine {
+  display: inline;
+  margin: 0 auto;
+}
+.raincloud {
+  display: inline;
+  margin: 0 auto;
+}
+.smallCloud {
+  display: inline;
+  margin: 0 auto;
+}
+.yourLocation {
+  background-color: #fad9e6;
+  text-align: left;
+  border-radius: 4px;
+}
+.card-body {
+  text-align: center;
+}
+.card {
+  border-radius: 20px;
+  position: relative;
+}
